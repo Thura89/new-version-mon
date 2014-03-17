@@ -3,28 +3,20 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.greenwebcreations.monmyatthadar"
         version   = "1.0.0">
 
-<<<<<<< HEAD
+
     <name>MonMyatThadar</name>
 
     <description>
          Monmyat thathar Youth Donation Group
     </description>
 
-    <author href="http://futureictsolution.com" email="poohspear@gmail.com">
+    <author href="http://greenwebcreations.com" email="mozet89@gmail.com">
         Green Web Creation
-=======
-    <name>Monmyathadar</name>
 
-    <description>
-         Monmyathadar youth Donation group
-    </description>
 
-    <author href="http://futureictsolution.com" email="poohspear@gmail.com">
-        Green Web Crations
->>>>>>> 10b9afd85c903b93500b0a1645a2699eef3da1c5
     </author>
 
     <!--
